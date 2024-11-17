@@ -1,0 +1,2 @@
+# phomem
+Phonetic Memorization
